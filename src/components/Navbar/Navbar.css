@@ -1,0 +1,9 @@
+.header{
+   
+    /* backdrop-filter: blur(9px); */
+    background-color: #374151 ;
+    backdrop-filter: blur(12px);
+    z-index: 10;
+    
+    text-align: center;
+}
